@@ -11,11 +11,11 @@ Bu proje, bir video dosyasındaki kişileri algılamak ve saymak için **YOLOv5*
 
 ## İşlenmiş Video Çıktısı
 
-Aşağıdaki bağlantıya tıklayarak işlenmiş video çıktısını izleyebilirsiniz:
+Aşağıdaki küçük resme tıklayarak işlenmiş video çıktısını izleyebilirsiniz:
 
-[![Videoyu İzle](https://via.placeholder.com/800x450?text=Video+Placeholder)](https://raw.githubusercontent.com/username/repository/branch/processed_video.mp4)
+[![Videoyu İzle](https://raw.githubusercontent.com/HsynDmrl/Person-Counter/main/thumbnail.png)](https://github.com/HsynDmrl/Person-Counter/blob/main/processed_video.mp4)
 
-> Not: Yukarıdaki "Video Placeholder" yerine kendi bir küçük resim dosyanızı eklemek isterseniz, bir `.jpg` veya `.png` dosyası oluşturup `via.placeholder.com` bağlantısını değiştirin.
+> Not: Eğer video oynatılamazsa, [buraya tıklayarak videoyu indirebilirsiniz.](https://github.com/HsynDmrl/Person-Counter/blob/main/processed_video.mp4)
 
 ## Gereksinimler
 
